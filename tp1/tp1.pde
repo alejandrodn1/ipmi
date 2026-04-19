@@ -1,6 +1,10 @@
  PImage Imagentp;
  int desp; //variable para desplazar
 
+//Nombre: Alejandro Del Nogal
+//Legajo: 125564/4
+//Comision 1 
+
 void setup() {
   
   size(800, 400);
